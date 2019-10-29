@@ -63,16 +63,12 @@ In this project, our team applied the knowledge and techniques acquired from the
 ---
 ## SECTION 7 : Dataset Creation
 
-`<Github File Link>` : https://github.com/FoFxjc/IRS-RS-2019-07-15-IS01FT-GRP-LX-Intelligent-Teaching-Assistant-System/blob/master/ProjectReport/MRS_ITAS_Report.pdf
+`<Github File Link>` : https://github.com/FoFxjc/ISA-IPA-2019-10-07-IS01FT-GRP1-Intelligent-Job-Hunter/blob/master/System%20Codes/dataset_creation.zip
 
 This script creates dataset of applicant work experiences  and job role and responsibility.
 Place job_type.json and scrape_job_resume.py in a folder.
 Navigate to this folder and run following command:
 python scrape_job_resume.py
-
-### logo.png
-### MRS_survey_data.xlsx
-### Questionnaire.docx
 
 ## SECTION 8 : MISCELLANEOUS
 
