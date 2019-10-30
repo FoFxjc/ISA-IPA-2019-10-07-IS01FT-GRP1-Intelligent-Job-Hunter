@@ -54,7 +54,6 @@ In this project, our team applied the knowledge and techniques acquired from the
 **Recommended Sections for Project Report / Paper:**
 - Executive Summary
 - Problem Description (Background Description and Business Analysis)
-- Knowledge Modelling (Knowledge Representation)
 - Solution(System Architecture and Implementation)
 - Conclusion(challenge and Overvome)
 
