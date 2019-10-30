@@ -42,13 +42,9 @@ In this project, our team applied the knowledge and techniques acquired from the
 
 ---
 ## SECTION 5 : USER GUIDE
-### Deployment User Guide
 
-`<Github File Link>` : https://github.com/FoFxjc/IRS-RS-2019-07-15-IS01FT-GRP-LX-Intelligent-Teaching-Assistant-System/blob/master/UserGuide/MRS_ITAS_User_Guide(Deployment).pdf
 
-### Application User Guide
-
-`<Github File Link>` : https://github.com/FoFxjc/IRS-RS-2019-07-15-IS01FT-GRP-LX-Intelligent-Teaching-Assistant-System/blob/master/UserGuide/MRS_ITAS_User_Guide(Application).pdf
+`<Github File Link>` : https://github.com/FoFxjc/ISA-IPA-2019-10-07-IS01FT-GRP1-Intelligent-Job-Hunter/blob/master/UserGuide/IJH_User_Guide.pdf
 
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
