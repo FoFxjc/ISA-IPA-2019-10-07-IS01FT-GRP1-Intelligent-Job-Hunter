@@ -33,10 +33,12 @@ In this project, our team applied the knowledge and techniques acquired from the
 | :------------ |:---------------:| :-----| :-----|
 | LI XINLIN | A0198535N | Knowledge Modelling, OptaPlanner Solver Development, Backend Development, Documentation, Video| e0402076@u.nus.edu |
 | XU JIACHEN | A0198491M | Application Architect, Frontend Development, Backend Development, Video, Documentation| e0402032@u.nus.edu |
+| XU JIACHEN | A0198491M | Application Architect, Frontend Development, Backend Development, Video, Documentation| e0402032@u.nus.edu |
+| XU JIACHEN | A0198491M | Application Architect, Frontend Development, Backend Development, Video, Documentation| e0402032@u.nus.edu |
 
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
-[![Watch the video](http://img.youtube.com/vi/bBCQn5DqaSA/0.jpg)](https://youtu.be/bBCQn5DqaSA)
+[![Watch the video](http://img.youtube.com/vi/PAedEATYn1E/0.jpg)](https://youtu.be/PAedEATYn1E)
 
 ---
 ## SECTION 5 : USER GUIDE
@@ -76,5 +78,5 @@ python scrape_job_resume.py
 ## SECTION 8 : MISCELLANEOUS
 
 ### logo.png
-### MRS_survey_data.xlsx
-### Questionnaire.docx
+### Sample Cover Letter.pdf
+### Sample Resume.pdf
