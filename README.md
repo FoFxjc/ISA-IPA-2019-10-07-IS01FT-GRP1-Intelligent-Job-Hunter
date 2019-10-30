@@ -46,7 +46,7 @@ In this project, our team applied the knowledge and techniques acquired from the
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-`<Github File Link>` : https://github.com/FoFxjc/IRS-RS-2019-07-15-IS01FT-GRP-LX-Intelligent-Teaching-Assistant-System/blob/master/ProjectReport/MRS_ITAS_Report.pdf
+`<Github File Link>` : https://github.com/FoFxjc/ISA-IPA-2019-10-07-IS01FT-GRP1-Intelligent-Job-Hunter/blob/master/ProjectReport/ISA-CA-Project-Report.pdf
 
 **Recommended Sections for Project Report / Paper:**
 - Executive Summary
